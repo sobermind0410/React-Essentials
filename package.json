@@ -1,10 +1,7 @@
 {
   "name": "react-essentials-start",
   "version": "0.0.0",
-  "homepage": "https://sobermind0410.github.io/React-Essentials/",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
